@@ -1,6 +1,3 @@
-# Sukoon
-
-
 # **Sukoon**  
 **Empowering Communication Through Brain Signals**  
 
